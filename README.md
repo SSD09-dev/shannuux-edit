@@ -1,4 +1,4 @@
-# Shannuux — Product & UX/UI Design Portfolio
+# Shannuux — Product & UX/UI Design Portfolio galaxy shooting star motion BG
 
 A modern, responsive design portfolio showcasing case studies, visual systems, and interactive UI components.
 
